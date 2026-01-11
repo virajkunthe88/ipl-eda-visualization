@@ -46,7 +46,7 @@ jupyter notebook
 
 3. Open or create notebooks in the `notebooks/` directory
 
-## Requirements
+## Requirements 
 
 - Python 3.7+
 - pandas >= 1.5.0
